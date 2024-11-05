@@ -1,0 +1,2 @@
+# Xtara
+Yeni Linux dağıtımı
